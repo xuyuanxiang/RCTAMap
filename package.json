@@ -1,0 +1,19 @@
+{
+  "name": "RCTAmap",
+  "version": "0.0.1",
+  "description": "A set of react-native components for AMap",
+  "keywords": [
+    "react-native",
+    "amap"
+  ],
+  "author": "chaos@xuyuanxiang.cn",
+  "main": "index.js",
+  "devDependencies": {
+    "react": "15.3.1",
+    "react-native": "^0.33.0"
+  },
+  "peerDependencies": {
+    "react": "15.3.1",
+    "react-native": "^0.33.0"
+  }
+}
